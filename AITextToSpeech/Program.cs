@@ -3,7 +3,7 @@ using System.Text;
 
 class Program
 {
-    private static readonly string apiKey = "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";
+    //private static readonly string apiKey = "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";
     static async Task Main(string[] args)
     {
         Console.Write("Metni Giriniz: ");
