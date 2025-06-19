@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIChat", "OpenAIChat\AIChat.csproj", "{FC84B2C1-CAE0-4150-9201-E304DE705E22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIAudioToText", "AIAudioToText\AIAudioToText.csproj", "{D182F523-2B24-4788-AC4C-530DE098CCA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIDalleImageGenaration", "AIDalleImageGenaration\AIDalleImageGenaration.csproj", "{F5A67AE2-0570-465B-BD90-058D602E4F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleCloudVision", "GoogleCloudVision\GoogleCloudVision.csproj", "{1E67D62D-6C5A-4121-91EF-C1AA90DB037A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AITranslate", "AITranslate\AITranslate.csproj", "{928AF088-D17D-4A6F-A280-11531EB52A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToSpeech", "TextToSpeech\TextToSpeech.csproj", "{4C64F252-F475-4AF4-A08C-9795D9568EB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AITextToSpeech", "AITextToSpeech\AITextToSpeech.csproj", "{CB555CA6-5F83-4552-BCF3-ACBD84C8F422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC84B2C1-CAE0-4150-9201-E304DE705E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC84B2C1-CAE0-4150-9201-E304DE705E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC84B2C1-CAE0-4150-9201-E304DE705E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC84B2C1-CAE0-4150-9201-E304DE705E22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D182F523-2B24-4788-AC4C-530DE098CCA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D182F523-2B24-4788-AC4C-530DE098CCA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D182F523-2B24-4788-AC4C-530DE098CCA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D182F523-2B24-4788-AC4C-530DE098CCA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A67AE2-0570-465B-BD90-058D602E4F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A67AE2-0570-465B-BD90-058D602E4F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A67AE2-0570-465B-BD90-058D602E4F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A67AE2-0570-465B-BD90-058D602E4F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E67D62D-6C5A-4121-91EF-C1AA90DB037A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E67D62D-6C5A-4121-91EF-C1AA90DB037A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E67D62D-6C5A-4121-91EF-C1AA90DB037A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E67D62D-6C5A-4121-91EF-C1AA90DB037A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{928AF088-D17D-4A6F-A280-11531EB52A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928AF088-D17D-4A6F-A280-11531EB52A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928AF088-D17D-4A6F-A280-11531EB52A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928AF088-D17D-4A6F-A280-11531EB52A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C64F252-F475-4AF4-A08C-9795D9568EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C64F252-F475-4AF4-A08C-9795D9568EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C64F252-F475-4AF4-A08C-9795D9568EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C64F252-F475-4AF4-A08C-9795D9568EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB555CA6-5F83-4552-BCF3-ACBD84C8F422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB555CA6-5F83-4552-BCF3-ACBD84C8F422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB555CA6-5F83-4552-BCF3-ACBD84C8F422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB555CA6-5F83-4552-BCF3-ACBD84C8F422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B48A071-9ED3-4070-AC28-D3904F5FB031}
+	EndGlobalSection
+EndGlobal

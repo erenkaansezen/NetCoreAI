@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gmail-api-project-439623",
+  "private_key_id": "d624ba966cb1ad67b4938788b5f87c25219d6571",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpV5Y3YWnH1kT4\nIhydAe6mUp4pQ/+53mN1usdLkTO4+Cuf/xWNipKU6ZXyCMOHOXdhgsIxp5e5lAD6\nokx0gyNrDC3Cs1kSxSaQIKP5RS0CXwaBsswPKEXsxp9Zij03xqhuZi/t7SFV1KKH\nsV1VA2SxtnKD4UNz6V48zqBZEmGKRVhvMIjH3SNgXEqmRB3spDUx9KKSex33UsCM\neJH3KS6a7k70sg85PyS/4oXRvUCOvAAbnyksPLNz8h7I8g2VKpfeov+qClr8BP+Z\nuWamEI5IluQRi5Ejhs1j3VDODfutc4b91lIPnJzvoHAT9qff1wgoAhpVEJRyMxxN\nSWZs1FLFAgMBAAECggEAJOVPdluEF6VIu6N7Bn5wR87CZQ1Kv22D0BfU6lMFqOxx\nXNfQE1m43DcUk3pzV5geuaEqvHTeavGjUPhhnhUgd2dc5Qn8g0lvQIHMGDiJOPYJ\nTeLt8PN+YLtZ5sFm2ysucXdURAuhcrj0fIoZYrdtjgbJZpCDCNM01BzU9PM7S0u7\ntGbLYQ5x5VO1AvJDSYKMqdkCT85vzOjUKHPvsfbs8h9BAbCcHOlYdFZnJ5rVDYas\nQZWzcpxhVed3En5OogldzCNCgPT5iY0I91chTC3LSfjEdHVfCJFb6FLgPia8yEwm\nuVxgSOxw+SUpI3GWGA4RPSxJjiNcTbQuWXFJvfz3lQKBgQDdhtJhfWhYsyPfHU9f\nu/5o4dgQgrfUoRKMINY11LRbCboD5uCJPBdjzAEvw2TyYrQrRna4ySOxJMWtK0EF\ngOf46DmIjqbvFtqLQAheEknYedW1/6zMmXeX85kv7Vi8uKeBEPQoaz6n+9EeT/UH\nu+eIBq+UMW37QuIEovYMnV7pTwKBgQDDsdanhIL5VJt38ppzgRht6aN6pn3bUmcg\nTLlS1N5xxEv01lGkug8T4Jd/gaSUOtgp4WdimDRsK+l2sMK068KLEiVu7YA9099g\n/7UAjsXE/0ktZwPxRZVuK3Xw/Y4glblFBjJTtva1eak7/V1EGi35zlusHzVVqkwN\nuMhLbUUVqwKBgQDVPejaK4v8hkTrix1S/HZDo9MG4a3vojVmal2JZ/1M/Snwg5h0\nwkGJsWEbBy3vHRBt7+BstEIFTW5z6YUntRSXx4NKbndHA2rQTI1BcL1hAra0AS/n\nq3sx7C3zsreOwvmLBjThi4q+zWpZkYI/NaQEjtsI/iPukE1dRTkwn3QzhQKBgCna\n4n9Hvz+Wkf3wnIoxxUjU3MtBys9a64WkA0stDjqk8l32bNXfmZP1yFFUKCAwCcXD\nWPpkdWnhZnilS6+ocR6PjgQQtgoDQ9aaOltZLgF5XGxiiRxUdqZukzYs9PYRL+QM\ndD0ld9TOpZyYDxeexdCVC1RgBGdDGishJ23CfDErAoGAP66icMf0OGntViEdNxJi\nrBztV05XW+yu7qkFFYZIcfFoMm4v1oBOsRhGbfa0DqRFof6MsWnCS5nkp7GG1PCs\nZTOAaYrzgPrWYmF3b6MZXcc4eoyTGerKWXnUXTXc6EemlYsxAY03tTN9RQh8Jfi4\nN//eXBRRZaBObri6KqJkA7w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapiservice@gmail-api-project-439623.iam.gserviceaccount.com",
+  "client_id": "110957048081357581655",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapiservice%40gmail-api-project-439623.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

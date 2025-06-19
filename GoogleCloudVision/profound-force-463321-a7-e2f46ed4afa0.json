@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "profound-force-463321-a7",
+  "private_key_id": "e2f46ed4afa08e86bedd2d66d126caf5a424d36c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDXOFsEt+5WG7qq\ncbeXwASGzyTOSXg0b94SWEJlTCCsF0h8ZBgvNmDKQnrWsF8jlrLxUOEg0QBk22Bp\nlMKl75TAPpHJd6LQjMmFf5fEWDqj8yxK+58gyMgqwyuO3KTW/DKp7av8XRwMeZeT\nSk7NVxR7O7UMuM1WScaM9iV61zv4LZiwORhyoFrSbt0wYWC0R2OfMMJa0ZEImD1z\nvy3owus/H2ehoHMt8WaYSYU71ao26GdeDgicgrUZY/pMkWY+UEv2njC0R9O3q8R2\ntB575PCTUwO27NBiv0gHwxDipp+DuKHk8Q8brJ2w9cYuqNJ+8Q6A89lRuYl2gWKK\n42IDoo4JAgMBAAECggEAK4P+i0axTwHOTVYu2+T8RVGuzHL4dgnEagskaZzp4kHW\n6yfF6A3jpiGo+q2wnt6Ckd5blqoLnVjp9o8YiDqX5gMAsS6aYfaFbJOu2QlJ2gp6\nAzM7KoLOTi8mKH2easWVbNxccOtWl4MiTaqxoj0gLAaXhdn70p2aIrhGPb81Jemb\nPCUqzmoNcl2/zzdS30IImnMqd5Tx92kqqbX72T5/fZyo6Q4sKjBmBs5vvcQ4bznO\na2XFwiTX189MDfk7fpckO8VTlc/4KbFaltM9mLsYPEqDSXHEPZ/OHWW6m9kFIBxg\n1ienkOS3HtzyNxrZMNmY7pvLbRvR9L9dgH8Na358zQKBgQD0sOBQMXQCvxUpb2wj\n55WLi1gQC8NTw4qlQThPsFHOCuR6kmg4lbz2EA2xgPGYRSEHiLY2u3tG3QRhrQrL\nsRJwE0w/w1SwD4eI2GWigpzYcA3IAZFqjTC85LOjvFEZ51QJpho6sdBnkzIJGlcx\n5/1wm65zPDZfm0ddV8Ny47AnSwKBgQDhKsnDLoN1GroBZg7fXDg2Yo7IUYBPJwwz\nvUjraUFI3Q8Azyyw5iDEs88gSdq8KHyE2F9Z8knye64X1eJ/HyrVNIcP9x8IgBoa\np/0kUpnG5Ia26I1YIRgo7tzPR9dFVUTVtYv5DTf/QfLHkZpvnv4XkIXKEDHd3NLt\nf2L5QcHnewKBgQCpYjO1b7ZmHE6S413RsQN1mN06JlpthsRYR0Cq8Vx/rEyjiOv6\nl7U6BLzl7mPPy7Lkmz+/vaLF2EOrNfVuMcKYsNMspJPgWK+zDFG24IGg1ljD5kn6\nn4hoikzMgJUHwHoNP92SWfrxaBTP9lr74iMwK6Tkgn8FSeFp/VIAGxua5wKBgQDK\nBww01h0ZCzvtWVbqzeGZ2mBmF8paOpzWJ3Wv0ybCa6W0gi6FIlYwZ2zmeZ2KyYC/\n6SvUlnIG4TXZKQ0qJhrWZWTxzDbJ97Z0SFn3Jy3WqOC+aHW5pyf4QilYygq6qME0\nRsoqUdP2cYOV0GySzkMJfaCtJk631BRlB7EUGA4U1QKBgQCeixUBbSJm8B8grvj8\nJ/NZFimXXbeEBEMTTV/xDRmeNEq/oVhS08tVyocI2Nq8Weet3LYqb4OB0p2yjuBt\nzJo17QreXqqSXxDvNgeaeS9qRWj7j6qa6B8sbJEsqCTRcyLSApcv2o29a+CJzyIm\nL3VRqKQxQ+ZEj323mlSX1uHxdw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mya-vision@profound-force-463321-a7.iam.gserviceaccount.com",
+  "client_id": "100511725331363882974",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mya-vision%40profound-force-463321-a7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
