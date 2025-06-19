@@ -5,7 +5,7 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        //string apiKey = "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";
+        string apiKey = "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";
         string audioFilePath = "ismailbas.mp3";
 
         using (var client = new HttpClient())

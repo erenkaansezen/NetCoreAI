@@ -11,7 +11,7 @@ class Program
         Console.WriteLine("Lütfen çevirmek istediğiniz metini giriniz : ");
         string inputText = Console.ReadLine();
 
-        //string apiKey = "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"; // Buraya OpenAI API anahtarınızı girin
+        string apiKey = "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"; // Buraya OpenAI API anahtarınızı girin
 
         string translatedText = await TranslateTextToEnglish(inputText,apiKey);
 

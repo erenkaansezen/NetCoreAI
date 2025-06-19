@@ -9,7 +9,7 @@ class Program
         string imgPath = Console.ReadLine();
         Console.WriteLine();
 
-        //string credentialPath = @"C:\Users\eren.sezen\Desktop\NetCoreAI\GoogleCloudVision\profound-force-463321-a7-e2f46ed4afa0.json"; // buraya servis json dosyası gelicek
+        string credentialPath = @"C:\Users\eren.sezen\Desktop\NetCoreAI\GoogleCloudVision\profound-force-463321-a7-e2f46ed4afa0.json"; // buraya servis json dosyası gelicek
         Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", credentialPath);
 
         try
